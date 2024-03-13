@@ -2006,6 +2006,11 @@ img.thumb {
     display: flex;
 }
 
+.img-two-flex tw-hook {
+    overflow-y: visible !important;
+    margin-left: 0 !important;
+}
+
 .img-two-flex img {
     max-width: 95%;
 }
